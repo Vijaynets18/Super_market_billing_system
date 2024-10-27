@@ -10,6 +10,7 @@ public class super_market {
         showMenu();
     }
 
+    
     private static void showMenu() {
         int choice;
         do {
